@@ -99,3 +99,4 @@ def extract_features_from_file(txt_file, model, datagen):
         all_labels.append(label)  # Append the label
 
     return np.vstack(all_features).reshape(-1, np.prod(features.shape[1:])), np.array(all_labels)
+
