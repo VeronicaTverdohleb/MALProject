@@ -1,4 +1,4 @@
-Class Name (str),Class ID (int),Coarse Class Name (str),Coarse Class ID (int),Iconic Image Path (str),Product Description Path (str)
+Category Name (str),Category ID (int),Class Name (str),Class ID (int),Iconic Image Path (str),Product Description Path (str)
 Golden-Delicious,0,Apple,0,/iconic-images-and-descriptions/Fruit/Apple/Golden-Delicious/Golden-Delicious_Iconic.jpg,/iconic-images-and-descriptions/Fruit/Apple/Golden-Delicious/Golden-Delicious_Description.txt
 Granny-Smith,1,Apple,0,/iconic-images-and-descriptions/Fruit/Apple/Granny-Smith/Granny-Smith_Iconic.jpg,/iconic-images-and-descriptions/Fruit/Apple/Granny-Smith/Granny-Smith_Description.txt
 Pink-Lady,2,Apple,0,/iconic-images-and-descriptions/Fruit/Apple/Pink-Lady/Pink-Lady_Iconic.jpg,/iconic-images-and-descriptions/Fruit/Apple/Pink-Lady/Pink-Lady_Description.txt
